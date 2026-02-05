@@ -16,6 +16,8 @@ DerivedData/
 UpdaterScripts/SwiftUpdater/.build/
 UpdaterScripts/SwiftUpdater/.build-*/
 
+result
+
 # Archives
 *.xcarchive
 
